@@ -1,5 +1,7 @@
 [package]
 name = "bevy_simple_pixel_camera"
+description = "An epic crate"
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
