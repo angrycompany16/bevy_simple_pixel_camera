@@ -3,6 +3,7 @@ name = "bevy_simple_pixel_camera"
 version = "0.1.0"
 edition = "2021"
 
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 # Enable a small amount of optimization in debug mode
@@ -16,3 +17,9 @@ opt-level = 3
 # NOTE: disable dynamic_linking when shipping
 [dependencies]
 bevy = { version = "0.12.0", features = ["dynamic_linking"] }
+
+[[example]]
+name = "shapes"
+
+[[example]]
+name = "spinning_square"

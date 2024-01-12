@@ -24,7 +24,6 @@ pub struct PixelCameraPlugin {
 
 impl Plugin for PixelCameraPlugin {
     fn build(&self, app: &mut App) {
-
         let i_size = Extent3d {
             width: (self.screen_width / self.pixel_scale_factor) as u32, 
             height: (self.screen_height / self.pixel_scale_factor) as u32, 

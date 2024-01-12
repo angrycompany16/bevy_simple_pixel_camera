@@ -1,5 +1,7 @@
+//! This is the amazing documentation
+//! I will write this later
+
+
 pub mod pixel_camera;
 
-pub fn test_stuff() {
-    println!("test");
-}
+pub use pixel_camera::*;
