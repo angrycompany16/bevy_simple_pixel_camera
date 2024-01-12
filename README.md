@@ -1,3 +1,3 @@
-# bevy_chess
+# pixel
 
-I'm making a chess-based puzzle game using the Bevy game engine
+Fem fem fem boii
